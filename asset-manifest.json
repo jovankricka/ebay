@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ebay/static/css/main.83cae7d3.chunk.css",
+    "main.js": "/ebay/static/js/main.e52c856e.chunk.js",
+    "main.js.map": "/ebay/static/js/main.e52c856e.chunk.js.map",
+    "runtime~main.js": "/ebay/static/js/runtime~main.b02b8e3c.js",
+    "runtime~main.js.map": "/ebay/static/js/runtime~main.b02b8e3c.js.map",
+    "static/js/2.a2b77b74.chunk.js": "/ebay/static/js/2.a2b77b74.chunk.js",
+    "static/js/2.a2b77b74.chunk.js.map": "/ebay/static/js/2.a2b77b74.chunk.js.map",
+    "index.html": "/ebay/index.html",
+    "precache-manifest.2c6a77afaa22fd24417db1e218144248.js": "/ebay/precache-manifest.2c6a77afaa22fd24417db1e218144248.js",
+    "service-worker.js": "/ebay/service-worker.js",
+    "static/css/main.83cae7d3.chunk.css.map": "/ebay/static/css/main.83cae7d3.chunk.css.map",
+    "static/media/logo.png": "/ebay/static/media/logo.bc6729bc.png"
+  }
+}
